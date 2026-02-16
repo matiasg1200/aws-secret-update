@@ -51,4 +51,6 @@ DEBUG_MODE=true
 - Add method to remove existing keys
 - Add method to update existing keys
 - Add feature to check on which regions secrets are created and replace the manually populated region list by a dynamic one
+- Add feature to update all secrets or multiple secrets in a single run
+- Add small script to create python venv to start using the application or add some python dependcy handler
 
